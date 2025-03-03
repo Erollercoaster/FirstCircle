@@ -1,2 +1,1 @@
-# FirstCircle
 # FirstCircleTasks
